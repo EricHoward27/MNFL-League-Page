@@ -35,7 +35,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-       "managerID": 337720842697842688,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "managerID": "337720842697842688",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "imurfather",
      },
     // {
