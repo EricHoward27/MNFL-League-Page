@@ -14,6 +14,7 @@ export const homepageText = `
   
 
   <h2>Weekly Awards</h2>
+  <span>Week 6</span>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
     <li>Dolphins Eats Broncos Award - team that scores the most points in a week</li>
