@@ -7,10 +7,20 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
+  <p>Welcome to MNFL!</p>
   <p>Welcome to the most thrilling and immersive fantasy football league experience you'll ever be a part of! We're excited to introduce you to our unique 32-team PPR/IDP league, where we go the extra yard to replicate the NFL in every way possible. We follow the NFL schedule, its divisions, and teams, ensuring you're right in the heart of the action.</p>
   <p>What sets us apart is our commitment to recognizing our managers. Weekly awards, season awards, and a supportive, mature, and fun league environment make this a fantastic long-term dynasty league. With our front page, we aim to get every manager's heart racing with excitement. Whether you're a seasoned pro or a rookie, you're about to embark on a journey filled with camaraderie, rivalry, and, most importantly, fun. Get ready for a league that's as passionate about the sport as you are!</p>
   <p>Our league isn't just about drafting players; it's about building lasting memories. So, lace up those virtual cleats, dive into the stats, and prepare for a fantasy football adventure like no other. Let's make this season a touchdown!</p>
-  <p>Welcome to MNFL!.</p>
+  
+
+  <h2>Weekly Awards</h2>
+  <ul>
+    <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
+    <li>Dolphins Eats Broncos Award - team that scores the most points in a week</li>
+    <li>The Help Me Award - team that scores the least points in a week</li>
+    <li>"L" Award - team with a long stretch of losing</li>
+    <li>Patriots Way Award - team with the longest current win streak</li>
+  </ul>
 `;
 
 /*   STEP 3   */
