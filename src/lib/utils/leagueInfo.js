@@ -37,7 +37,6 @@ export const managers = [
     {
        "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "OrderlyEric1",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
      },
     // {
     //   "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
