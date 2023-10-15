@@ -36,36 +36,43 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
 
       {
-      "managerID": "337720842697842688",
+      "managerID": "67823407936716800",
       "name": "imurfather",
-      "photo": "https://sleepercdn.com/uploads/748e9f4dca1108c75d61598392708660.jpg"
+      "photo": "https://sleepercdn.com/uploads/5c47f67919331eadde3305716609b193.jpg"
      },
    {
-      "managerID": "459580478010159104",
-      "name": "NotSoLilRicky",
-      "photo": "https://sleepercdn.com/uploads/276fde90f0e6f93642637e32a5f1324a.jpg"
+      "managerID": "337720842697842688",
+      "name": "donovini",
+      "photo": "https://sleepercdn.com/uploads/748e9f4dca1108c75d61598392708660.jpg"
    },
-     {
-      "managerID": "313878383924963840",
-      "name": "Enzur",
-      "photo": "https://sleepercdn.com/uploads/f366ea5d0b25ec13eac88d05e2c87498.jpg"
-    },
-    {
-      "managerID": "346752096832393984",
-      "name": "Dtrain",
-      "photo": "https://sleepercdn.com/uploads/d78e48a733a2f89132d0ea2dd4cd9116.jpg"
-    },
-    {
-      "managerID": "366722798425075712",
-      "name": "Joe",
-      "photo": "https://sleepercdn.com/uploads/11f5ad7c19da1081a5a5e1ca888f4ef7.jpg"
-    },
-    {
-      "managerID": "390823810862159104",
-      "name": "Xman",
-      "photo": "https://sleepercdn.com/uploads/8c09ea824192a2d8a73c1e842c1c2c31.jpg"
-    },
-   
+   {
+    "managerID": "459580478010159104",
+    "name": "NotSoLilRicky",
+    "photo": "https://sleepercdn.com/uploads/276fde90f0e6f93642637e32a5f1324a.jpg"
+  },
+  {
+    "managerID": "467828055394480128",
+    "name": "buzzard77",
+    "photo": "https://sleepercdn.com/uploads/68ef044aeb84dcb9c4d88a3c723e57e8.jpg"
+  },
+  {
+    "managerID": "474350710301913088",
+    "name": "Versace-Lemonade",
+    "photo": "https://sleepercdn.com/uploads/6a15a06ca38d3e170a0a5b31a2e1fe60"
+  },
+  {
+    "managerID": "545701002129784832",
+    "name": "TagMeIfNeeded",
+    "photo": "https://sleepercdn.com/uploads/6fd60418ab05bb99436e38a12cd57110"
+  },
+  {
+    "managerID": "601477012971913216",
+    "name": "JJ2K2K23",
+    "photo": "https://sleepercdn.com/uploads/cc73bbfec2462f1556e5672348274f50.jpg"
+  },
+  
+
+
     // {
     //   "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     //   "name": "Your Name",
