@@ -34,10 +34,22 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 // To omit an optional field, set it's value to null
 
 export const managers = [
-    {
-       "managerID": "337720842697842688",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "imurfather",
-     },
+  
+     {
+      "managerID": "337720842697842688",
+      "name": "imurfather",
+      "avatar": "https://sleepercdn.com/uploads/748e9f4dca1108c75d61598392708660.jpg"
+   },
+   {
+      "managerID": "459580478010159104",
+      "name": "NotSoLilRicky",
+      "avatar": "https://sleepercdn.com/uploads/276fde90f0e6f93642637e32a5f1324a.jpg"
+   },
+   {
+      "managerID": "467828055394480128",
+      "name": "buzzard77",
+      "avatar": "https://sleepercdn.com/uploads/68ef044aeb84dcb9c4d88a3c723e57e8.jpg"
+   },
     // {
     //   "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     //   "name": "Your Name",
