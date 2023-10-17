@@ -17,10 +17,15 @@ export const homepageText = `
   <span>Week 6</span>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
+    <h3>Commanders(Wasatch79) DB- Darrick Forrest</h3>
     <li>Dolphins Eats Broncos Award - team that scores the most points in a week</li>
+    <h3>Eagles(MicahDPOY) - 207.90</h3>
     <li>The Help Me Award - team that scores the least points in a week</li>
+    <h3>Titans(Seahawks2025)</h3>
     <li>"L" Award - team with a long stretch of losing</li>
+    <h3>T-Denver(OrderlyEric1) & Titans(Seahawks2025)</h3>
     <li>Patriots Way Award - team with the longest current win streak</li>
+    <h3>T-Jags(buzzard77) 49ers(barcoboom) Bengals(Bears4Life2) current streak at 6</h3>
   </ul>
 `;
 
