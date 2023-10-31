@@ -14,7 +14,7 @@ export const homepageText = `
   
 
   <h2>Weekly Awards</h2>
-  <span>Week 7</span>
+  <span>Week 8</span>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
     <h5>Titans(Seahawks2025) - QB Ryan Tannehill</h5>
