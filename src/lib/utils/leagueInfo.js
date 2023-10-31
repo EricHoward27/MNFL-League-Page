@@ -17,15 +17,18 @@ export const homepageText = `
   <span>Week 7</span>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
-    <h3>Raiders(judepalmer) - DB Nate Hobbs</h3>
+    <h5>Titans(Seahawks2025) - QB Ryan Tannehill</h5>
     <li>Dolphins Eats Broncos Award - team that scores the most points in a week</li>
-    <h3>Colts(mitchell0315)) - 225.60</h3>
+    <h5>Bengals(Bears4Life2) - 218.02</h5>
     <li>The Help Me Award - team that scores the least points in a week</li>
-    <h3>Lions(3Goldfish)</h3>
+    <h5>Raiders(judepalmer)</h5>
     <li>"L" Award - team with a long stretch of losing</li>
-    <h3>Raiders(judepalmer) - 6 Ls </h3>
+    <h5>Raiders(judepalmer) - 7 Ls </h5>
     <li>Patriots Way Award - team with the longest current win streak</li>
-    <h3>49ers(barcoboom) current streak at 7</h3>
+    <h5>Eagles(MichahDPOY) current streak at 6</h5>
+    <li>BREAKING NEWS</li>
+    <h5>Bengals(Bears4Life2) ends 49ers(barcoboom) at 7!</h5>
+    <h5>Saints(fivewayrack) is on a roll at 4 wins streak turning around playoffs hope!</h5>
   </ul>
 `;
 
