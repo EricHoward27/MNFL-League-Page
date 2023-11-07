@@ -14,7 +14,7 @@ export const homepageText = `
   
 
   <h2>Weekly Awards</h2>
-  <span>Week 8</span>
+  <span>Week 9</span>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
     <h5>Raiders(judepalmer) - WR1 WR2 RB2 LB2 DL2??</h5>
