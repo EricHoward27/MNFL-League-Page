@@ -17,18 +17,19 @@ export const homepageText = `
   <span>Week 9</span>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
-    <h5>Raiders(judepalmer) - WR1 WR2 RB2 LB2 DL2??</h5>
+    <h5>Packers(Bredmon08) - LB-Ja Bentley</h5>
     <li>Dolphins Eats Broncos Award - team that scores the most points in a week</li>
-    <h5>Buccaneers(ClutchSTL) - 210.10</h5>
+    <h5>Bengals(Bears4Life2) - 220.92</h5>
     <li>The Help Me Award - team that scores the least points in a week</li>
-    <h5>Titans(Seahawks2025)</h5>
+    <h5>Patriots(n284)</h5>
     <li>"L" Award - team with a long stretch of losing</li>
-    <h5>Raiders(judepalmer) - 8 Ls </h5>
+    <h5>Raiders(judepalmer) - 9 Ls </h5>
     <li>Patriots Way Award - team with the longest current win streak</li>
-    <h5>Eagles(MichahDPOY) current streak at 7</h5>
+    <h5>New Orleans Saints current streak at 6</h5>
     <li>BREAKING NEWS</li>
-    <h5>Buccaneers(ClutchSTL) new manager debut outscored at 210.10!</h5>
-    <h5>Bills(bingBONGbutta) is on a roll defeating Bengals(Bears4Life2) in fashion!</h5>
+    <h5>Buccaneers(ClutchSTL) is all business at 6-3!!</h5>
+    <h5>Bills, Bengals, Eagles, and 49ers are fighting for the best in their conferences!</h5>
+    <h5>Other honorable mentions is the New Orlean Saints(fivewayrack), Bears(imurfather), Chargers(cybersp78), and Jags(markblank1293) leading their conferences!!</h5>
   </ul>
 `;
 
