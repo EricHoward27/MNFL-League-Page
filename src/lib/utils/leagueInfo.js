@@ -14,7 +14,7 @@ export const homepageText = `
   
 
   <h2>Weekly Awards</h2>
-  <span>Week 9</span>
+  <span>Week 10</span>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
     <h5>Packers(Bredmon08) - LB-Ja Bentley</h5>
