@@ -14,22 +14,23 @@ export const homepageText = `
   
 
   <h2>Weekly Awards</h2>
-  <span>Week 10</span>
+  <span>Week 11</span>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
-    <h5>Packers(Bredmon08) - LB-Ja Bentley</h5>
+    <h5>Texans(elijahdriesenga) - DB1-Ward, DB2-no starter</h5>
     <li>Dolphins Eats Broncos Award - team that scores the most points in a week</li>
-    <h5>Bengals(Bears4Life2) - 220.92</h5>
+    <h5>49ers(barcoboom) - 219.82</h5>
     <li>The Help Me Award - team that scores the least points in a week</li>
-    <h5>Patriots(n284)</h5>
+    <h5>Texans(elijahdriesenga)- 106.94</h5>
     <li>"L" Award - team with a long stretch of losing</li>
-    <h5>Raiders(judepalmer) - 9 Ls </h5>
+    <h5>Raiders(judepalmer) - 10 Ls </h5>
     <li>Patriots Way Award - team with the longest current win streak</li>
-    <h5>New Orleans Saints current streak at 6</h5>
+    <h5>Bills(bingBONGbutta) current streak at 7</h5>
     <li>BREAKING NEWS</li>
-    <h5>Buccaneers(ClutchSTL) is all business at 6-3!!</h5>
-    <h5>Bills, Bengals, Eagles, and 49ers are fighting for the best in their conferences!</h5>
-    <h5>Other honorable mentions is the New Orlean Saints(fivewayrack), Bears(imurfather), Chargers(cybersp78), and Jags(markblank1293) leading their conferences!!</h5>
+    <h5>Wild Card matchups takesoff Week 14!! Only 3 weeks away!!</h5>
+    <h5>Bengals and Bills are fighting for the AFC bye week!</h5>
+    <h5>49ers are top the NFC at 10-1!!</h5>
+    <h5>Other news...week 13 the playoffs bracket will be live on the Sleeper App and website. Stay tuned.</h5>
   </ul>
 `;
 
