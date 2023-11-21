@@ -29,7 +29,7 @@ export const homepageText = `
     <li>BREAKING NEWS</li>
     <h5>Wild Card matchups takesoff Week 14!! Only 3 weeks away!!</h5>
     <h5>Bengals and Bills are fighting for the AFC bye week!</h5>
-    <h5>49ers are top the NFC at 10-1!!</h5>
+    <h5>49ers are top the NFC at 9-1!!</h5>
     <h5>Other news...week 13 the playoffs bracket will be live on the Sleeper App and website. Stay tuned.</h5>
   </ul>
 `;
