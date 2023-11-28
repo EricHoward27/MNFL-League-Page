@@ -14,7 +14,37 @@ export const homepageText = `
   
 
   <h2>Weekly Awards</h2>
-  <span>Week 11</span>
+  <span>Week 12</span>
+  <h3>Playoffs Race & Ranking Update 11.27.23</h3>
+  <h4>AFC Playoffs Standings</h4>
+  <ul>
+    <li>1. Bills *Z*Y*X</li>
+    <li>2. Bengals *Y*X</li>
+    <li>3.Jags *Y*X</li>
+    <li>4.Chargers *Y*X</li>
+    <li>5. Dolphins</li>
+    <li>6. Steelers</li>
+    <li>7.Colts</li>
+    <h5>In the Hunt</h5>
+    <li>Raven</li>
+    <li>Chiefs</li>
+
+    <h4>NFC Playoffs Standings</h4>
+    <ul>
+      <li>49ers *Z*Y*X</li>
+      <li>Eagles *Y*X</li>
+      <li>Bears *Y*X</li>
+      <li>Saints *Y*X</li>
+      <li>Buccaneers</li>
+      <li>Cowboys</li>
+      <li>Lions</li>
+      <h5>In the Hunt</h5>
+      <li>Vikings</li>
+      <li>Commanders</li>
+      <li>Cardinals</li>
+    </ul>
+  
+  </ul>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
     <h5>Texans(elijahdriesenga) - DB1-Ward, DB2-no starter</h5>
