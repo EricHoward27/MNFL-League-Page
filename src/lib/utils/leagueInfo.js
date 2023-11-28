@@ -13,8 +13,7 @@ export const homepageText = `
   <p>Our league isn't just about drafting players; it's about building lasting memories. So, lace up those virtual cleats, dive into the stats, and prepare for a fantasy football adventure like no other. Let's make this season a touchdown!</p>
   
 
-  <h2>Weekly Awards</h2>
-  <span>Week 12</span>
+
   <h3>Playoffs Race & Ranking Update 11.27.23</h3>
   <h4>AFC Playoffs Standings</h4>
   <ul>
