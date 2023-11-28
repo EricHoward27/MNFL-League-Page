@@ -17,7 +17,7 @@ export const homepageText = `
   <h3>Playoffs Race & Ranking Update 11.27.23</h3>
   <h4>AFC Playoffs Standings</h4>
   <ul>
-    <li>1. Bills *Z*Y*X</li>
+    <li>1. Bills *Y*X</li>
     <li>2. Bengals *Y*X</li>
     <li>3.Jags *Y*X</li>
     <li>4.Chargers *Y*X</li>
@@ -48,19 +48,19 @@ export const homepageText = `
   <h3>Weekly Awards</h3>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
-    <h5>Texans(elijahdriesenga) - DB1-Ward, DB2-no starter</h5>
+    <h5>Ravens(Brian628) - DB2-Marlon Humphrey, DB3-no starter</h5>
     <li>Dolphins Eats Broncos Award - team that scores the most points in a week</li>
-    <h5>49ers(barcoboom) - 219.82</h5>
+    <h5>Bears(imurfather) - 247.78</h5>
     <li>The Help Me Award - team that scores the least points in a week</li>
-    <h5>Texans(elijahdriesenga)- 106.94</h5>
+    <h5>Patriots(n284)- 70.76</h5>
     <li>"L" Award - team with a long stretch of losing</li>
-    <h5>Raiders(judepalmer) - 10 Ls </h5>
+    <h5>Raiders(judepalmer) - 11 Ls </h5>
     <li>Patriots Way Award - team with the longest current win streak</li>
-    <h5>Bills(bingBONGbutta) current streak at 7</h5>
+    <h5>Chargers(cybersp78) and Steelers(NotSoLilRicky) current streak at 4!</h5>
     <li>BREAKING NEWS</li>
-    <h5>Wild Card matchups takesoff Week 14!! Only 3 weeks away!!</h5>
-    <h5>Bengals and Bills are fighting for the AFC bye week!</h5>
-    <h5>49ers are top the NFC at 9-1!!</h5>
+    <h5>Wild Card matchups takesoff Week 14!! Only 1 weeks away!!</h5>
+    <h5>Bengals, Dolphins, and Bills are fighting for the AFC bye week!</h5>
+    <h5>49ers and Eagles clash to claim the NFC!!</h5>
     <h5>Other news...week 13 the playoffs bracket will be live on the Sleeper App and website. Stay tuned.</h5>
   </ul>
 `;
