@@ -31,13 +31,13 @@ export const homepageText = `
 
     <h4>NFC Playoffs Standings</h4>
     <ul>
-      <li>49ers *Z*Y*X</li>
-      <li>Eagles *Y*X</li>
-      <li>Bears *Y*X</li>
-      <li>Saints *Y*X</li>
-      <li>Buccaneers</li>
-      <li>Cowboys</li>
-      <li>Lions</li>
+      <li>1.49ers *Z*Y*X</li>
+      <li>2.Eagles *Y*X</li>
+      <li>3.Bears *Y*X</li>
+      <li>4.Saints *Y*X</li>
+      <li>5.Buccaneers</li>
+      <li>6.Cowboys</li>
+      <li>7.Lions</li>
       <h5>In the Hunt</h5>
       <li>Vikings</li>
       <li>Commanders</li>
