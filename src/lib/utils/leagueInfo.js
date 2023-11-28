@@ -45,6 +45,8 @@ export const homepageText = `
     </ul>
   
   </ul>
+
+  <h3>Weekly Awards</h3>
   <ul>
     <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
     <h5>Texans(elijahdriesenga) - DB1-Ward, DB2-no starter</h5>
