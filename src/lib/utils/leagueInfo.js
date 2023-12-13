@@ -14,49 +14,12 @@ export const homepageText = `
   
 
 
-  <h3>Playoffs Race & Ranking Update 11.27.23</h3>
+  <h3>Playoffs Bracket Divsional Round</h3>
   <h4>AFC Playoffs Standings</h4>
-  <ul>
-    <li>1. Bills *Y*X</li>
-    <li>2. Bengals *Y*X</li>
-    <li>3.Jags *Y*X</li>
-    <li>4.Chargers *Y*X</li>
-    <li>5. Dolphins</li>
-    <li>6. Steelers</li>
-    <li>7.Colts</li>
-    <h5>In the Hunt</h5>
-    <li>Raven</li>
-    <li>Chiefs</li>
+  <div>
+  <img src="static\mnfl_playoffs_bracket_div_round.png" alt="MNFL bracket" style="width:500px; height:600px;" />
+  </div>
 
-    <h4>NFC Playoffs Standings</h4>
-    <ul>
-      <li>1.49ers *Z*Y*X</li>
-      <li>2.Eagles *Y*X</li>
-      <li>3.Bears *Y*X</li>
-      <li>4.Saints *Y*X</li>
-      <li>5.Buccaneers</li>
-      <li>6.Cowboys</li>
-      <li>7.Lions</li>
-      <h5>In the Hunt</h5>
-      <li>Vikings</li>
-      <li>Commanders</li>
-      <li>Cardinals</li>
-    </ul>
-  
-  </ul>
-
-  <h3>Weekly Awards</h3>
-  <ul>
-    <li>Skip Bayless Medal - worst decision award by starting a player that should have been benched</li>
-    <h5>Ravens(Brian628) - DB2-Marlon Humphrey, DB3-no starter</h5>
-    <li>Dolphins Eats Broncos Award - team that scores the most points in a week</li>
-    <h5>Bears(imurfather) - 247.78</h5>
-    <li>The Help Me Award - team that scores the least points in a week</li>
-    <h5>Patriots(n284)- 70.76</h5>
-    <li>"L" Award - team with a long stretch of losing</li>
-    <h5>Raiders(judepalmer) - 11 Ls </h5>
-    <li>Patriots Way Award - team with the longest current win streak</li>
-    <h5>Chargers(cybersp78) and Steelers(NotSoLilRicky) current streak at 4!</h5>
     <li>BREAKING NEWS</li>
     <h5>Wild Card matchups takesoff Week 14!! Only 1 weeks away!!</h5>
     <h5>Bengals, Dolphins, and Bills are fighting for the AFC bye week!</h5>
