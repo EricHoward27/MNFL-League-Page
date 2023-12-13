@@ -17,7 +17,7 @@ export const homepageText = `
   <h3>Playoffs Bracket Divsional Round</h3>
   <h4>AFC Playoffs Standings</h4>
   <div>
-  <img src="../static/retired.png" alt="MNFL bracket" style="width:500px; height:600px;" />
+  <img src="./static/retired.png" alt="MNFL bracket" style="width:500px; height:600px;" />
   </div>
 
     <li>BREAKING NEWS</li>
