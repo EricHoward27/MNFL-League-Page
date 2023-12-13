@@ -15,16 +15,15 @@ export const homepageText = `
 
 
   <h3>Playoffs Bracket Divsional Round</h3>
-  <h4>AFC Playoffs Standings</h4>
   <div>
   <img src="/mnfl_playoffs_bracket_div_round.png" alt="MNFL bracket" style="width:500px; height:600px;" />
   </div>
 
     <li>BREAKING NEWS</li>
-    <h5>Wild Card matchups takesoff Week 14!! Only 1 weeks away!!</h5>
-    <h5>Bengals, Dolphins, and Bills are fighting for the AFC bye week!</h5>
-    <h5>49ers and Eagles clash to claim the NFC!!</h5>
-    <h5>Other news...week 13 the playoffs bracket will be live on the Sleeper App and website. Stay tuned.</h5>
+    <h5>We are less than 3 weeks away until the end of the 2023 season!</h5>
+    <h5>Season awards will be announce end of week 18</h5>
+    <h5>Offseason plans will be announce in week 18, and MNFL draft combine will be live end of week 18.</h5>
+    <h5>Good luck to all the playoff teams!</h5>
   </ul>
 `;
 
