@@ -16,7 +16,7 @@ export const homepageText = `
 
   <h3>Playoffs Bracket Divsional Round</h3>
   <div>
-  <img src="/mnfl_playoffs_bracket_div_round.png" alt="MNFL bracket" style="width:500px; height:600px;" />
+  <img src="/mnfl_playoffs_bracket_div_round.png" alt="MNFL bracket" style="width:600px; height:600px;" />
   </div>
 
     <li>BREAKING NEWS</li>
